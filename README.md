@@ -21,18 +21,23 @@ Dự án được thực hiện dưới sự hướng dẫn của giảng viên 
   ([↑up to contents](#contents))
   
   Tuần 1: 6/3 -> 12/3/2023
+  
   Chủ đề: Tìm hiểu lí thuyết
 
   Tuần 2: 13/3 -> 19/3/2023
+  
   Chủ đề: Chốt đề tài, trình bày ý tưởng và miêu tả phương pháp để giải bài toán
 
   Tuần 3: 20/3 -> 26/3/2023
+  
   Chủ đề:
 
   Tuần 4: 
+  
   Chủ đề:
 
   Tuần 5: 
+  
   Chủ đề:
 ## About us
   ([↑up to contents](#contents))
