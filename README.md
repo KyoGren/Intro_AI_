@@ -3,7 +3,7 @@
 
 ### About this project
 Đây là bài tập lớn môn nhập môn trí tuệ nhân tạo do nhóm sinh viên trường Đại học Khoa học Tự nhiên, ĐHQGHN thực hiện. \
-Dự án được thực hiện dưới sự hướng dẫn của giảng viên ... và ... 
+Dự án được thực hiện dưới sự hướng dẫn của giảng viên Thân Quang Khoát và trợ giảng Phạm Cường 
 ## Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -30,7 +30,7 @@ Dự án được thực hiện dưới sự hướng dẫn của giảng viên 
 
   Tuần 3: 20/3 -> 26/3/2023
   
-  Chủ đề:
+  Chủ đề: Bắt đầu thực hiện dự án
 
   Tuần 4: 
   
